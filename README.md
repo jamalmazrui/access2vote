@@ -1,6 +1,6 @@
 # access2vote
 
-Nonpartisan information for accessible voting by Americans with disabilities.
+Nonpartisan information for accessible voting by Americans with disabilities.  Sharing is encouraged, such as with the #access2vote hashtag.
 
 <http://GitHub.com/JamalMazrui/access2vote>
 
