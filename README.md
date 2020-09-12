@@ -1,10 +1,10 @@
 # access2vote
 
-Nonpartisan information for accessible voting by Americans with disabilities.  Sharing is encouraged, such as with the #access2vote hashtag.
-
 <http://GitHub.com/JamalMazrui/access2vote>
 
-This is a collection of about 80 free documents that give guidance on how to facilitate accessible voting by Americans with disabilities.  Several state-focused guides are included, as well as general documents on voter registration, polling places, and other topics supporting accessibility in the election process.  
+This is nonpartisan information for accessible voting by Americans with disabilities.  Sharing is encouraged, such as with the #access2vote hashtag.
+
+The project is a collection of about 80 free documents that give guidance on how to facilitate accessible voting in the United States, as well as sections of this page that summarize key facts by state.  Several state-focused guides are included, as well as general documents on voter registration, polling places, and other topics supporting accessibility in the election process.  
 
 Although the documents are curated for current relevance, note that many were published before this year.  For specifics on dates and locations, consult the latest information from state government.  Such up-to-date information is summarized in the subsequent sections below, based on the website [vote411.org](https://www.vote411.org/).
 
@@ -14,7 +14,7 @@ To increase compatibility across devices and assistive technologies, documents i
 
 # Voting Information by State
 
-The following sections organize key voting information alphabetically by state.  Each state section includes subsections that address most of the following 20 topics:
+The following sections organize key voting information alphabetically by state, including links for further details.  Each state section includes subsections that address most of the following 20 topics:
 
 - Absentee Ballot Process
 - Campaign Finance Information
