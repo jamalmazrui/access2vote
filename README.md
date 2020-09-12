@@ -6,7 +6,7 @@ This is nonpartisan information for accessible voting by Americans with disabili
 
 The project is a collection of about 80 free documents that give guidance on how to facilitate accessible voting in the United States, as well as sections of this page that summarize key facts by state.  Several state-focused guides are included, as well as general documents on voter registration, polling places, and other topics supporting accessibility in the election process.  
 
-Although the documents are curated for current relevance, note that many were published before this year.  For specifics on dates and locations, consult the latest information from state government.  Such up-to-date information is summarized in the subsequent sections below, based on the website [vote411.org](https://www.vote411.org/).
+Although the documents are curated for current relevance, note that many were published before this year.  For specifics on dates and locations, consult the latest information from state government.  Up-to-date information is also summarized in the subsequent sections below, based on the website [vote411.org](https://www.vote411.org/).
 
 To increase compatibility across devices and assistive technologies, documents in PDF and Word formats are also offered in HTML and plain text versions.  All files in the collection may be downloaded in a single zip archive from the following address:
 
